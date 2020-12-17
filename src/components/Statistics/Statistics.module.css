@@ -1,0 +1,11 @@
+.title {
+  color: var(--titleColor);
+}
+
+.textItem {
+  font-size: 14px;
+}
+
+.textItemPositive {
+  font-weight: 700;
+}
